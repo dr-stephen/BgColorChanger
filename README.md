@@ -1,2 +1,1 @@
-# BgColorChanger
-Bg Color Changer
+# javascript-color-change-app
